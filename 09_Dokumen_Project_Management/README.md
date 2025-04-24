@@ -1,0 +1,4 @@
+# Dokumen Project Management
+
+Berisi: Gantt chart, timeline mingguan, tools yang digunakan, dan pembagian peran tim.
+Format: Spreadsheet atau Notion/Trello Screenshot.

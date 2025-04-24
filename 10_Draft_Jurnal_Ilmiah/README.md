@@ -1,0 +1,4 @@
+# Draft Jurnal Ilmiah
+
+Berisi: Pendahuluan, metodologi, temuan awal, dan rencana kontribusi publikasi.
+Format: Word/DOCX.
